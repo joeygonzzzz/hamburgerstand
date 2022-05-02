@@ -4,7 +4,7 @@ import Menupic from '../images/menu.jpeg';
 const Menu = () => {
   return (
     <>
-    <div className="h-screen flex justify-center items-center bg-blue-300">
+    <div className="h-screen flex justify-center items-center bg-red-300">
         <h1 className="text-9xl uppercase font-black">Menu</h1>
     </div>
     <div className="h-screen flex justify-center bg-black">

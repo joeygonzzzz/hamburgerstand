@@ -2,6 +2,9 @@ import React from 'react';
 import ImageOne from '../images/burger1.jpeg';
 import ImageTwo from '../images/taco1.jpeg';
 import ImageThree from '../images/taco2.jpeg';
+import Review1 from '../images/review1.jpeg';
+import Review2 from '../images/review2.jpeg';
+import Review3 from '../images/review3.jpeg';
 
 const Content = () => {
   return (
